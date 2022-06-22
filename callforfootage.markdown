@@ -13,6 +13,11 @@ permalink: /callforhomevideo/
 
 *The Center for Home Movies is excited to support the work of HBO Documentary Films and filmmakers Brian Becker and Marley McDonald, with whom we are consulting on a project to discover home videos for inclusion in their upcoming feature documentary. Read on to hear a statement from the filmmakers and find out how you can get involved.*  
 
+**To sign up to submit your home video, please fill out the following Google Form:	 	 
+[LINK](https://docs.google.com/forms/d/e/1FAIpQLSdQlttWkfguWzNLMgMnsG636I4wEUyIBXfsk7cWJXLrelyV7A/viewform)**
+
+The first feature documentary to take an in-depth look at Y2K is in production and is seeking your home video footage from December 31, 1999 - kazoos, confetti, questionable fashions, quiet nights at home, huge parties, canned food stashes, the ball drop on TV, and New Year’s kisses.
+
 For a major, standalone scene in the film, we intend to create a montage of everyday home videos showcasing the breadth of American experience at the dawn of the 21st century. We’re interested in diverse personal experiences of the final night of the last millennium, no matter how mundane. Did you take major precautions or did you party like it’s 1999? Using your videos, our film will spend the final moments of the last millennium counting down the seconds in the basements and living rooms across America. 
 
 Our documentary focuses on stories ranging from the global to intensely personal. Throughout the film, we investigate the means through which a technical problem transformed into a large-scale, society-wide issue. We explore the many ways that people responded to the threat of the millennium bug: from survivalists who prepared for apocalypse to computer programmers who diligently solved the problem, and every experience in between. We’re telling the story entirely through archival footage by diving into news, documentaries, movies, culture, and personal videos from the ‘90s. Through this patchwork of characters and styles, we highlight the lessons to be learned from the different methods by which Americans grappled with potential disaster. More information about the film can be found [here](https://pressroom.warnermedia.com/us/media-release/hbo-production-documentary-feature-about-y2k-scare-computer-glitch-threatened-end).

@@ -61,7 +61,7 @@ We expect our review and digitization process to take 3-4 months.
 Yes, we’d love to see these!
 
 *Is any non-12/31 Y2K-related material helpful to your project?* <br>
-We are primarily interested in footage from 12/31, but if you have great additional footage relating to Y2K, please e-mail [Y2K@hboprod.com](Y2K@hboprod.com) 
+We are primarily interested in footage from 12/31, but if you have great additional footage relating to Y2K, please e-mail [Y2K@hboprod.com](mailto:Y2K@hboprod.com) 
 
 *When will the film come out?* <br>
 The documentary will be released in 2023.
@@ -70,4 +70,4 @@ The documentary will be released in 2023.
 We hope to receive these ASAP, but we’ll accept submissions until 9/2/22.
 
 *Any other questions?* <br>
-E-mail us at [Y2K@hboprod.com](Y2K@hboprod.com)
+E-mail us at [Y2K@hboprod.com](mailto:Y2K@hboprod.com)

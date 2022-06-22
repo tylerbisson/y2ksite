@@ -2,6 +2,11 @@
 
 // Define defaults for each variable.
 
+@font-face {
+  font-family: "GAU";
+  src: url("../assets/fonts/GAU_root_N.ttf") format("truetype");
+}
+
 $base-font-family: -apple-system,
 BlinkMacSystemFont,
 "Segoe UI",
@@ -16,6 +21,8 @@ $base-font-size: 16px !default;
 $base-font-weight: 400 !default;
 $small-font-size: $base-font-size * 0.875 !default;
 $base-line-height: 1.5 !default;
+
+$nav-font-family: "GAU";
 
 $spacing-unit: 30px !default;
 

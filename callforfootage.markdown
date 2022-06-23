@@ -11,7 +11,7 @@ permalink: /callforhomevideo/
 <sub style="text-align: center;">Video still courtesy of Brian Langley</sub>
 {: style="text-align: center;"}
 
-*The Center for Home Movies is excited to support the work of HBO Documentary Films and filmmakers Brian Becker and Marley McDonald, with whom we are consulting on a project to discover home videos for inclusion in their upcoming feature documentary. Read on to hear a statement from the filmmakers and find out how you can get involved.*  
+*The Center for Home Movies is excited to support the work of HBO Documentary Films and filmmakers Brian Becker and Marley McDonald, with whom CHM is consulting on a project to discover home videos for inclusion in an upcoming feature documentary. Read on to hear a statement from the filmmakers and find out how you can get involved.*  
 {: style="font-weight: 300;"}
 
 **To sign up to submit your home video, please fill out the following Google Form: 
@@ -52,7 +52,7 @@ __*If digitized, will my home video appear in the film?*__ <br>
 We do not know the composition of our film until our editing process is finished. We cannot guarantee that your home video will appear in the finished film if selected for digitization. All featured home video-makers will receive a credit and $250.
 
 __*Will you fund shipping of the tapes?*__ <br>
-We will fund round-trip shipping via Fedex for the first 30 respondents.
+We will fund round-trip shipping via Fedex for the first 30 selected respondents.
 
 __*What will happen to my video if selected?*__ <br>
 Once the video is received, producers will digitize your material at one of the top digitization houses in the country. Upon completion, producers will return the tapes and will send a secure downloadable link to preservation quality, uncompressed digitized video.

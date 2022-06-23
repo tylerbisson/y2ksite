@@ -2,7 +2,7 @@
 layout: page
 title: Call For Home Video
 description: Center for Home Movies Collaborating with HBO Documentary on Call for American Home Videos from 12/31/99
-permalink: /callforhomevideo/
+permalink: /callforhomevideo
 image: "assets/img/meta.jpg"
 ---
 

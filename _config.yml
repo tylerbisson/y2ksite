@@ -26,6 +26,9 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://y2kfilm.com" # the base hostname & protocol for your site, e.g. http://example.com
 logo: "assets/img/meta.jpg"
 
+twitter:
+  card: summary_large_image
+
 # Build settings
 theme: minima
 plugins:

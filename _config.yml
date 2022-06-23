@@ -20,14 +20,16 @@
 
 title: Y2K Film
 email: Y2K@hboprod.com
-description: >- # this means to ignore newlines until "baseurl:"
+description: "Center for Home Movies Collaborating with HBO Documentary on Call for American Home Videos from 12/31/99"
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "y2kfilm.com" # the base hostname & protocol for your site, e.g. http://example.com
+logo: "assets/img/meta.png"
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 defaults:
   - scope:

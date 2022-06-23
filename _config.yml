@@ -23,7 +23,7 @@ tagline: The official site of the upcoming HBO feature documentary on Y2K
 email: Y2K@hboprod.com
 description: The home for news and updates on the HBO Y2K documentary directed by Brian Becker and Marley McDonald, executive produced by Penny Lane and Gabriel Sedgwick
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://y2kfilm.com/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://y2kfilm.com" # the base hostname & protocol for your site, e.g. http://example.com
 logo: "assets/img/meta.jpg"
 
 # Build settings

@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Call For Home Video
+# title: Call For Home Video
+# removing title takes page off site
 description: Center for Home Movies Collaborating with HBO Documentary on Call for American Home Videos from 12/31/99
 permalink: /callforhomevideo
 image: "assets/img/meta.jpg"

@@ -1,6 +1,53 @@
 /**
  * Site header
  */
+.page-content.home h1 {
+  font-size: 10vw;
+  font-family: 'Y2K';
+  text-align: center;
+  color: #B7B6B8;
+  background-color: #1746ED;
+  margin-top: .15em;
+  margin-bottom: .30em;
+  margin-left: auto;
+  margin-right: auto;
+  padding-right: .15em;
+  padding-left: .15em;
+  line-height: initial;
+  text-shadow: .3vw .3vw .1vw #000,
+    -.1vw -.1vw .1vw #000,
+    .1vw -.1vw .1vw #000,
+    -.1vw .1vw .1vw #000,
+}
+
+@include media-query($on-palm) {
+  .page-content.home {
+    padding-top: 4em;
+  }
+
+  .page-content.home h1 {
+    font-size: 15vw;
+    font-family: 'Y2K';
+    text-align: center;
+    color: #B7B6B8;
+    background-color: #1746ED;
+    margin-top: .15em;
+    margin-bottom: .30em;
+    margin-left: auto;
+    margin-right: auto;
+    padding-right: .15em;
+    padding-left: .15em;
+    line-height: initial;
+    text-shadow: .3vw .3vw .1vw #000,
+    -.1vw -.1vw .1vw #000,
+    .1vw -.1vw .1vw #000,
+    -.1vw .1vw .1vw #000,
+  }
+}
+
+/**
+ * Site header
+ */
 .site-header {
   // border-top: 5px solid $grey-color-dark;
   border-bottom: 1px solid $text-color-light;
@@ -21,7 +68,7 @@
   letter-spacing: -1px;
   margin-bottom: 0;
   float: left;
-  font-family: "GAU";
+  font-family: "VCR";
 
   &,
   &:visited {

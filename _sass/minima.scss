@@ -7,6 +7,21 @@
   src: url("../assets/fonts/GAU_root_N.ttf") format("truetype");
 }
 
+@font-face {
+  font-family: "VCR";
+  src: url("../assets/fonts/VCR_OSD_MONO_1.001.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Lee";
+  src: url("../assets/fonts/Lester Bold Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Y2K";
+  src: url("../assets/fonts/851Gkktt_005.ttf") format("truetype");
+}
+
 $base-font-family: -apple-system,
 BlinkMacSystemFont,
 "Segoe UI",
@@ -22,7 +37,7 @@ $base-font-weight: 400 !default;
 $small-font-size: $base-font-size * 0.875 !default;
 $base-line-height: 1.5 !default;
 
-$nav-font-family: "GAU";
+$nav-font-family: "VCR";
 
 $spacing-unit: 30px !default;
 

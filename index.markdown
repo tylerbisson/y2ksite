@@ -1,6 +1,7 @@
 ---
 permalink: /
 layout: home
+title: Home
 image: "assets/img/meta.jpg"
 ---
 # Time <br> Bomb <br> Y2K

@@ -1,4 +1,5 @@
 ---
+permalink: /
 layout: home
 image: "assets/img/meta.jpg"
 ---

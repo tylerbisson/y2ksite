@@ -1,7 +1,7 @@
 ---
 permalink: /
 layout: home
-title: Home
+title: Time Bomb Y2K
 image: "assets/img/meta.jpg"
 ---
 # Time <br> Bomb <br> Y2K
